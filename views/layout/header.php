@@ -10,6 +10,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/public/images/chef_7168283.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/public/images/chef_7168283.png">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
     <link href="/public/css/style.css" rel="stylesheet">
 </head>
 <body>

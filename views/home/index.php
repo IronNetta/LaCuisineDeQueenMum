@@ -300,7 +300,9 @@
     }
 
     body {
-        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-family: "Dancing Script", cursive;
+        font-size: 1.5rem;
+        font-optical-sizing: auto;
         line-height: 1.6;
         color: #2d3748;
         overflow-x: hidden;
